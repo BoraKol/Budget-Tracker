@@ -67,8 +67,7 @@
 
 | Dashboard Overview | Transactions Table |
 | :--- | :--- |
-| ![Dashboard Placeholder](dashboard.png) |
- ![Transactions Placeholder](transactions.png) |
+| ![Dashboard Overview](dashboard.png) | ![Transactions Table](transactions.png) |
 
 ---
 
