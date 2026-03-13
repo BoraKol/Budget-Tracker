@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local database
+*.db
+finance_tracker.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
