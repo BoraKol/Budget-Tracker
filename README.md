@@ -67,7 +67,8 @@
 
 | Dashboard Overview | Transactions Table |
 | :--- | :--- |
-| ![Dashboard Placeholder](https://via.placeholder.com/400x250?text=FinanceFlow+Dashboard) | ![Transactions Placeholder](https://via.placeholder.com/400x250?text=FinanceFlow+Transactions) |
+| ![Dashboard Placeholder](dashboard.png) |
+ ![Transactions Placeholder](transactions.png) |
 
 ---
 
